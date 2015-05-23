@@ -4,7 +4,7 @@
 
 flexichain get_cvs_clnet  #editable sequences
 mcclim     get_cvs_clnet  #implementation of the Common Lisp Interface Manager
-zip        get_cvs_clnet  #ZIP-file reader and creator
+zip        get_git https://github.com/bluelisp/zip  #ZIP-file reader and creator
 cxml       get_git git://repo.or.cz/cxml.git  #XML parser and DOM implementation
 closure    get_cvs_clnet  #CLIM-based web browser
 gsharp     get_git git://common-lisp.net/projects/gsharp/gsharp.git  #interactive, extensible editor for musical scores
